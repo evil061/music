@@ -1,1 +1,1 @@
-worker: main/index.js
+worker: index.js/index.js
