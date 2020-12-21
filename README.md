@@ -1,9 +1,7 @@
-<h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot </h1>
-<p align="center">Thanks for 4k Views! I made this for you all!</p>
-<div align="center"><img src="./assets/banner.gif"></div>
+<h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
 
 ## 📝 SERVER
-Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> [server](https://discord.gg/DkZ9c49k2M)
+<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> [server](https://discord.gg/DkZ9c49k2M)
 
 ## 📸 Screenshots
 
@@ -15,8 +13,5 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicB
 
 ## ✨ Contributors
 Contributions are always welcomed :D
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
 
 Made with :heart: and JavaScript!
