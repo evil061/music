@@ -14,3 +14,12 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/tushar061758/music)](https
 Contributions are always welcomed :D
 
 Made with :heart: and JavaScript!
+ using port 
+<B>const express = require('express');
+const app = express();
+const port = 3000;
+
+app.get('/', (req, res) => res.send('Hello World!'));
+
+app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));</b>
+
